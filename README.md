@@ -4,7 +4,9 @@ que permita generar y administrar votaciones, para la distribución equitativa d
 Equipo
 
 Victoria Codreanu
+
 Jennifer Giraldo Hernández
+
 Valeska Rios Zegarra
 
 Este código es un contrato de Ethereum escrito en lenguaje de programación Solidity.
